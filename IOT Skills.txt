@@ -1,0 +1,23 @@
+
+Hardware design:
+
+electrical engineering skills - CAD skill
+micro-controller - System-on-a-Chip (SoC) 
+embedded devices - 
+prototyped - micro-controller platforms - Arduino - Raspberry Pi
+embedded programs - C++ C Python
+
+Network:
+
+wifi,Low Energy Bluetooth, Zigbee, cellular, and RFID technologies LPWAN LoRa SigFox NB-IoT
+
+Security:
+
+threat assessment, ethical hacking, encryption to ensure data integrity,
+securing network architectures and applications, as well as event monitoring, activity logging, and threat intelligence.
+
+Big Data:
+
+Hadoop, Spark, and NoSQL databases like MongoDB.
+
+App Design and Development:Java, Swift, and Node.js 
